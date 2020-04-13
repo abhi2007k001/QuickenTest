@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <parameter name="device" value="Chrome"/>
+  <test thread-count="5" verbose="0" name="POC(failed)">
+    <classes>
+      <class name="com.dlc.dlcAutomation.sampleTestWeb">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="endTest"/>
+          <include name="shutDown"/>
+          <include name="weBTesting"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="initt"/>
+        </methods>
+      </class> <!-- com.dlc.dlcAutomation.sampleTestWeb -->
+    </classes>
+  </test> <!-- POC(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="134367" started-at="2020-04-13T06:35:06Z" finished-at="2020-04-13T06:37:20Z">
+    <groups>
+    </groups>
+    <test name="POC" duration-ms="134367" started-at="2020-04-13T06:35:06Z" finished-at="2020-04-13T06:37:20Z">
+      <class name="com.dlc.dlcAutomation.sampleTestMob">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.dlc.dlcAutomation.sampleTestMob@659499f1]" name="setUp" is-config="true" duration-ms="28159" started-at="2020-04-13T06:34:37Z" finished-at="2020-04-13T06:35:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Appium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="initt()[pri:0, instance:com.dlc.dlcAutomation.sampleTestMob@659499f1]" name="initt" is-config="true" duration-ms="385" started-at="2020-04-13T06:35:06Z" finished-at="2020-04-13T06:35:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initt -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dlc.dlcAutomation.sampleTestMob@659499f1]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2020-04-13T06:35:18Z" finished-at="2020-04-13T06:35:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dlc.dlcAutomation.sampleTestMob.mobTesting(java.util.Hashtable) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="mobTesting(java.util.Hashtable)[pri:1, instance:com.dlc.dlcAutomation.sampleTestMob@659499f1]" name="mobTesting" duration-ms="118628" started-at="2020-04-13T06:35:18Z" data-provider="getData" finished-at="2020-04-13T06:37:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Village=Bangalore, Pin=0000, Alcohol=Yes, MaritalStatus=Single, Runmode=Y, UserName=Automation, FamilyHistory=Yes, Password=password, Gender=Male, Smoke=Daily, Waist=90 cm or less, Age=32, Activity=less}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobTesting -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dlc.dlcAutomation.sampleTestMob@659499f1]" name="afterMethod" is-config="true" duration-ms="2584" started-at="2020-04-13T06:37:17Z" finished-at="2020-04-13T06:37:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=mobTesting status=SUCCESS method=sampleTestMob.mobTesting(java.util.Hashtable)[pri:1, instance:com.dlc.dlcAutomation.sampleTestMob@659499f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.dlc.dlcAutomation.sampleTestMob@659499f1]" name="endTest" is-config="true" duration-ms="772" started-at="2020-04-13T06:37:19Z" finished-at="2020-04-13T06:37:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.dlc.dlcAutomation.sampleTestMob@659499f1]" name="shutDown" is-config="true" duration-ms="218" started-at="2020-04-13T06:37:20Z" finished-at="2020-04-13T06:37:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- com.dlc.dlcAutomation.sampleTestMob -->
+    </test> <!-- POC -->
+  </suite> <!-- Suite -->
+</testng-results>

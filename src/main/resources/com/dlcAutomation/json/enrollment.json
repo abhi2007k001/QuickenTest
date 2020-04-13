@@ -1,0 +1,75 @@
+{
+	"individualInfo": {
+		"name": "AgebhaiSix",
+		"personPresent": null,
+		"surname": null,
+		"fathersOrSpouseName": null,
+		"age": 99,
+		"healthInsurance": null,
+		"healthInsuranceDetails": null,
+		"gender": "Male",
+		"maritalStatus": "Single",
+		"mobileNumber": null,
+		"photo": "",
+		"individualIds": {
+			"Aadhaar": null,
+			"HealthId": null,
+			"Pan": null,
+			"VoterID": null,
+			"DrivingLicense": null,
+			"SECC": null,
+			"NPR": null
+		},
+		"additionalDetails": {
+			"education": null,
+			"mobileOwner": null,
+			"residenceStatus": null,
+			"caste": null,
+			"casteOther": null,
+			"religion": null,
+			"religionOther": null,
+			"anmName": null,
+			"smsConsentNcd": true,
+			"smsConsentMProg": true
+		}
+	},
+	"familyInfo": {
+		"additionalDetails": {
+			"numberid": null,
+			"ASHA": null,
+			"hamlet": null,
+			"house": null,
+			"hOther": null,
+			"toilet": null,
+			"tOther": null,
+			"water": null,
+			"wOther": null,
+			"electricity": null,
+			"eOther": null,
+			"vehicle": null,
+			"vOther": null,
+			"fuel": null,
+			"fOther": null,
+			"apl": null,
+			"income": null,
+			"hsOwner": null,
+			"ration": null,
+			"idOther": null,
+			"idOtherVal": null
+		},
+		"addressInfo": {
+			"landmark": null,
+			"addressDetails": null,
+			"subcenterName": "ENM_Sc",
+			"subcenterId": 12300010,
+			"village": "Village Two",
+			"villageId": 123000020,
+			"phc": "ENM_Phc",
+			"phcId": "1230003",
+			"villageOther": null
+		},
+		"familyHeadName": "Raghav",
+		"contactDetail": null
+	},
+	"enrollmentFormId": "665a99b08e14yrb90232c18d5d5c3c9e554018f8d2d23a27cbd"
+}
